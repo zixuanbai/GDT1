@@ -1,0 +1,34 @@
+{
+    "name": "PlayerInput",
+    "maps": [
+        {
+            "name": "Fire",
+            "id": "12008542-0410-4811-b0ae-749d7821a484",
+            "actions": [
+                {
+                    "name": "hook",
+                    "type": "Button",
+                    "id": "78ca0dbb-3b18-4915-83c4-9abfca318b11",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "f98e7109-306a-4f7b-a7a9-5b09d4169171",
+                    "path": "<Keyboard>/space",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "hook",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
