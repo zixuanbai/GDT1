@@ -1,4 +1,4 @@
-W A S D - move 
+W A S D - moving
 
 
 Space - Fishing 
